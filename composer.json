@@ -1,0 +1,14 @@
+{
+
+"name": "adriano/delivery",
+"description": "SISTEMA DE PEDIDO DE PIZZA",
+"autoload": {
+    "psr-4":{
+        "app\\":"app/",
+        "config\\":"config/"
+    }
+},
+"require": {}
+
+
+}
